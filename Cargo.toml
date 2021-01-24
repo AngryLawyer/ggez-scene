@@ -1,0 +1,13 @@
+[package]
+name = "ggez-scene"
+description = "Extracted Scene Stack code from ggez-goodies"
+version = "0.1.0"
+repository = "https://github.com/AngryLawyer/ggez-scene"
+authors = ["Simon Heath <icefoxen@gmail.com>", "Tony Alridge <tony@angry-lawyer.com>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+
+
+[dependencies]
+ggez = { git = "https://github.com/ggez/ggez.git" }
